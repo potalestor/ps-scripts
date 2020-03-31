@@ -1,0 +1,6 @@
+Предоставляет Stream в файле, поддерживая синхронные и асинхронные операции чтения и записи.
+C#
+
+Копировать
+[System.Runtime.InteropServices.ComVisible(true)]
+public class FileStream : System.IO.Stream
